@@ -1,5 +1,6 @@
-# TOH
-This project implements the classic Tower of Hanoi game using C++ with a graphical user interface (GUI). The game allows players to interactively solve the puzzle by dragging and dropping disks between pegs. Key features include:
+<h1>TOH</h1>
+<p style="background-color:tomato;">
+This project implements the classic Tower of Hanoi game using C++ with a graphical user interface (GUI). The game allows players to interactively solve the puzzle by dragging and dropping disks between pegs. Key features include:</p>
 
 Interactive disk movement via mouse input<br>
 Graphical representation of pegs and disks using the graphics.h library<br>
